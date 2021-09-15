@@ -1,1 +1,1 @@
-# NCC
+# Sc NCC
