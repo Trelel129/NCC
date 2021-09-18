@@ -14,4 +14,3 @@ if(!$db_connection){
 }
 
 ?>
-
